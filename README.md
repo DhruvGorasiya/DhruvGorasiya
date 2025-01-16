@@ -78,8 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvgorasiya&show_icons=true&locale=en" alt="dhruvgorasiya" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgorasiya&" alt="dhruvgorasiya" /></p>
 
 <div align="center">
