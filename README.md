@@ -78,8 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvgorasiya&show_icons=true&locale=en&layout=compact" alt="dhruvgorasiya" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvgorasiya&show_icons=true&locale=en" alt="dhruvgorasiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgorasiya&" alt="dhruvgorasiya" /></p>
